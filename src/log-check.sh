@@ -7,7 +7,7 @@ YELLOW="\033[1;33m"
 CYAN="\033[1;36m"
 RED="\033[1;31m"
 
-USERNAME=`whoami`-adm
+USERNAME=`whoami`
 LOGS_DIR=</LOG_DIRECTORY>
 LOG_SUFFIX="-prod.log"
 
